@@ -1,6 +1,6 @@
 # Halo, saya Yahdillah 👋
 
-Mahasiswa S1 Teknik Informatika semester 7, Universitas YARSI, Jakarta.
+Mahasiswa S1 Teknik Informatika, Universitas YARSI, Jakarta.
 
 **Full-Stack Web Developer & AI Enthusiast** — fokus utama saya di backend, API, dan database, dengan pengalaman membangun aplikasi web end-to-end dan fitur berbasis AI. Jadi profil ini tidak hanya soal backend saja: backend adalah kekuatan utama saya, bukan satu-satunya bidang saya.
 
